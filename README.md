@@ -1,8 +1,6 @@
 # Ansible Collection - community.asa
 
 [![Run Status](https://api.shippable.com/projects/5e6068ebe4b17a000756145d/badge?branch=master)](https://app.shippable.com/github/ansible-collections/community.asa/dashboard/jobs) 
-```[![codecov](https://codecov.io/gh/ansible-collections/community.asa/branch/master/graph/badge.svg)](https://codecov.io/gh/ansible-collections/community.asa)
-```
 
 This repo hosts the `community.asa` Ansible Collection.
 
