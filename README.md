@@ -34,7 +34,7 @@ The `tests` directory contains configuration for running sanity and integration 
 You can run the collection's test suites with the commands:
 
     ansible-test sanity --docker
-    ansible-test asa-integration --docker
+    ansible-test network-integration --inventory /path/to/inventory tests_to_run
 
 
 ## Publishing New Version
