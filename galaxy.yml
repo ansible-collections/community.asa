@@ -1,6 +1,5 @@
 namespace: community
 name: asa
-version: 0.0.1
 readme: README.md
 authors:
 - Sumit Jaiswal @justjais
