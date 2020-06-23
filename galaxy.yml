@@ -1,12 +1,11 @@
 namespace: community
 name: asa
-version: 0.0.1
 readme: README.md
 authors:
 - Sumit Jaiswal @justjais
 description: |
   Ansible collection for community Cisco ASA plugins.
-license_file: COPYING
+license_file: LICENSE
 dependencies:
   "ansible.netcommon": "*"
 repository: https://github.com/ansible-collections/community.asa
