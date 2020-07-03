@@ -11,6 +11,4 @@ dependencies:
 repository: https://github.com/ansible-collections/community.asa
 homepage: https://github.com/ansible-collections/community.asa
 issues: https://github.com/ansible-collections/community.asa/issues
-build_ignore:
-- tests/integration/inventory*
 tags: [community, cisco, asa, security]
