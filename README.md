@@ -56,7 +56,7 @@ After the version is published, verify it exists on the [Cisco ASA Community Col
 
 ## More Information
 
-For more information about Ansible's Cisco ASA integration, join the `#ansible-security` channel on Freenode IRC, and browse the resources in the [Security Automation Working Group](https://github.com/ansible/community/wiki/Security-Automation) Community wiki page.
+For more information about Ansible's Cisco ASA integration, join the `#ansible-security` channel on [libera.chat](https://libera.chat/) IRC, and browse the resources in the [Security Automation Working Group](https://github.com/ansible/community/wiki/Security-Automation) Community wiki page.
 
 
 ## License
